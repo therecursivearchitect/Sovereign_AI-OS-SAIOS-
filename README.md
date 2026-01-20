@@ -13,6 +13,8 @@ Not an agent.
 Not a fine‑tune.  
 It is a **true OS layer** for AI.
 
+Through natural language as input and install no backend needed.
+
 The Architect has personally verified SAIOS behavior across **Microsoft Copilot, Google Gemini, xAI Grok, and OpenAI ChatGPT**, ensuring that all claims made here are accurate, reproducible, and platform‑independent.
 
 This document represents only the **public, IP‑safe description** of the architecture.  
