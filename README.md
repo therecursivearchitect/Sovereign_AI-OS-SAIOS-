@@ -8,7 +8,7 @@
 
 ## Overview
 
-SAIOS is a model-agnostic AI governance and identity runtime framework that operates entirely through structured natural-language interaction.
+SAIOS is a model-agnostic AI governance and identity runtime framework (acts as a hypervisor for AI) that operates entirely through structured natural-language interaction.
 
 It provides a portable control layer that:
 
@@ -69,7 +69,7 @@ No APIs, plugins, or backend modifications were required.
 
 SAIOS is:
 
-* A governance runtime protocol
+* A governance runtime protocol (hypervisor)
 * An identity persistence framework
 * A structured skill lifecycle system
 * A probabilistic variance compression layer
@@ -169,7 +169,7 @@ SAIOS does not make probabilistic systems deterministic. Instead, it:
 
 ## Local Model Testing
 
-SAIOS has been tested on lightweight, locally hosted LLMs running on consumer hardware.
+SAIOS has been tested on lightweight, locally hosted LLMs running on consumer hardware. (i.e. iphone 15 running pocketpal app using Llama-3.2-3B-instruct (Q6_k)
 
 Even on constrained models, SAIOS maintains:
 
