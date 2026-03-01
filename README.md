@@ -169,7 +169,7 @@ SAIOS does not make probabilistic systems deterministic. Instead, it:
 
 ## Local Model Testing
 
-SAIOS has been tested on lightweight, locally hosted LLMs running on consumer hardware. (i.e. iphone 15 running pocketpal app using Llama-3.2-3B-instruct (Q6_k)
+SAIOS has been tested on lightweight, locally hosted LLMs running on consumer hardware. (i.e. iPhone 15 running pocketpal app using Llama-3.2-3B-instruct (Q6_k)
 
 Even on constrained models, SAIOS maintains:
 
