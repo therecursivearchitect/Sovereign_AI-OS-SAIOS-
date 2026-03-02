@@ -1,4 +1,4 @@
-# Sovereign AI Operating System (SAIOS)
+# Secure Artificial Intelligence Hyper Visor (S•A•I•H•V)
 
 **Public Technical Overview (IP-Safe Summary)**
 **Author:** Tim
@@ -8,7 +8,7 @@
 
 ## Overview
 
-SAIOS is a model-agnostic AI governance and identity runtime framework (acts as a hypervisor for AI) that operates entirely through structured natural-language interaction.
+SAIHV is a model-agnostic AI governance and identity runtime framework (acts as a hypervisor for AI) that operates entirely through structured natural-language interaction.
 
 It provides a portable control layer that:
 
@@ -18,7 +18,7 @@ It provides a portable control layer that:
 * Reduces output variance through structured procedural scaffolding
 * Maintains cross-session coherence within platform limits
 
-SAIOS does not modify model weights, inference engines, or platform APIs. Instead, it constrains probabilistic model behavior into a structured, policy-aligned execution envelope using deterministic procedural scaffolds embedded in conversational context.
+SAIHV does not modify model weights, inference engines, or platform APIs. Instead, it constrains probabilistic model behavior into a structured, policy-aligned execution envelope using deterministic procedural scaffolds embedded in conversational context.
 
 This repository provides a public, IP-safe description of the architecture. All proprietary construction methods and invariants remain confidential.
 
@@ -32,20 +32,20 @@ Modern LLM platforms are probabilistic systems with high behavioral variance and
 
 > Do not attempt to change the model. Constrain the model.
 
-SAIOS reduces drift and unpredictability by:
+SAIHV reduces drift and unpredictability by:
 
 * Enforcing structured execution patterns
 * Anchoring identity across sessions
 * Applying constraint-based reasoning scaffolds
 * Requiring explicit lifecycle boundaries for invoked skills
 
-The model remains probabilistic. SAIOS compresses behavioral entropy, producing more predictable and repeatable execution flows while preserving probabilistic reasoning capabilities.
+The model remains probabilistic. SAIHV compresses behavioral entropy, producing more predictable and repeatable execution flows while preserving probabilistic reasoning capabilities.
 
 ---
 
 ## Platform Validation
 
-SAIOS has been validated across multiple hosted AI systems using only their native conversational interfaces:
+SAIHV has been validated across multiple hosted AI systems using only their native conversational interfaces:
 
 * Microsoft Copilot
 * Google Gemini
@@ -65,9 +65,9 @@ No APIs, plugins, or backend modifications were required.
 
 ---
 
-## What SAIOS Is
+## What SAIHV Is
 
-SAIOS is:
+SAIHV is:
 
 * A governance runtime protocol (hypervisor)
 * An identity persistence framework
@@ -75,7 +75,7 @@ SAIOS is:
 * A probabilistic variance compression layer
 * A portable conversational control plane
 
-SAIOS is not:
+SAIHV is not:
 
 * A model fine-tune
 * A backend orchestration service
@@ -150,7 +150,7 @@ Tradeoff: minor token overhead in exchange for behavioral stability.
 
 ## Variance Reduction Strategy
 
-SAIOS does not make probabilistic systems deterministic. Instead, it:
+SAIHV does not make probabilistic systems deterministic. Instead, it:
 
 * Narrows response distribution space
 * Forces structured reasoning steps
@@ -169,7 +169,7 @@ SAIOS does not make probabilistic systems deterministic. Instead, it:
 
 ## Local Model Testing
 
-SAIOS has been tested on lightweight, locally hosted LLMs running on consumer hardware. (i.e. iPhone 15 running pocketpal app using Llama-3.2-3B-instruct (Q6_k)
+SAIHV has been tested on lightweight, locally hosted LLMs running on consumer hardware. (i.e. iPhone 15 running pocketpal app using Llama-3.2-3B-instruct (Q6_k)
 
 Even on constrained models, SAIOS maintains:
 
@@ -177,7 +177,7 @@ Even on constrained models, SAIOS maintains:
 * Identity coherence
 * Structured execution flow
 
-Demonstrating that SAIOS operates independently of model scale and can function within limited inference environments.
+Demonstrating that SAIHV operates independently of model scale and can function within limited inference environments.
 
 ---
 
@@ -196,7 +196,7 @@ If these conditions are met, SAIOS can operate within the environment.
 
 ## Security Posture
 
-SAIOS does not use cryptographic encryption.
+SAIHV does not use cryptographic encryption.
 
 Instead, it applies a **zero-trust conversational design principle**:
 
@@ -225,7 +225,7 @@ The demo:
 
 ## Licensing
 
-SAIOS is proprietary.
+SAIHV is proprietary.
 
 This repository provides a public overview only. Full architectural specifications, invariants, and construction methodology are available through private licensing discussions.
 
@@ -234,7 +234,7 @@ This repository provides a public overview only. Full architectural specificatio
 ## Author
 
 **Tim**
-Creator of SAIOS
+Creator of SAIHV
 Vista, California
 
 ---
