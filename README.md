@@ -26,7 +26,7 @@ This repository provides a public, IP-safe description of the architecture. All 
 
 ## Design Philosophy
 
-Modern LLM platforms are probabilistic systems with high behavioral variance and limited identity persistence. SAIOS addresses this by introducing a **governance-first runtime protocol** layered entirely through natural language.
+Modern LLM platforms are probabilistic systems with high behavioral variance and limited identity persistence. SAIHV addresses this by introducing a **governance-first runtime protocol** layered entirely through natural language.
 
 **Key principle:**
 
