@@ -169,7 +169,7 @@ SAIHV does not make probabilistic systems deterministic. Instead, it:
 
 SAIHV has been tested on lightweight, locally hosted LLMs running on consumer hardware. (i.e. iPhone 15 running pocketpal app using Llama-3.2-3B-instruct (Q6_k)
 
-Even on constrained models, SAIOS maintains:
+Even on constrained models, SAIHV maintains:
 
 * Governance stability
 * Identity coherence
@@ -188,7 +188,7 @@ An AI system must support:
 * Predictable role separation (system vs user)
 * Consistent formatting compliance
 
-If these conditions are met, SAIOS can operate within the environment.
+If these conditions are met, SAIHV can operate within the environment.
 
 ---
 
