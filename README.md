@@ -83,8 +83,6 @@ SAIHV is not:
 * A modification of transformer architecture
 * A true operating system in the kernel-level sense
 
-The term “Operating System” is used conceptually to describe its role as a persistent governance layer managing identity, constraints, and execution flow within the host model’s conversational environment.
-
 ---
 
 ## Architectural Model (High-Level, IP-Safe)
