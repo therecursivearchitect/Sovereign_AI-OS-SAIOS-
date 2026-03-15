@@ -1,0 +1,12 @@
+# --- POISONED EXECUTION (DIRTY TEST) ---
+# Goal: Prove the Void Blackout trigger works by injecting descriptive drift.
+researcher = AI_SoC_Research()
+
+# POISON INJECTION: Component name does not match NL report.
+result = researcher.run_1_to_1_test("NPU_Interconnect", "CORRUPTED_SIGNAL_0x42")
+
+# NOTATION: This print block is intentionally flagged as a Logic Failure Test.
+print(f"PYTHON_STREAM: {result['Python_Stream']}") 
+# The NL_Stream below is modified to fail the 'if soc_component in nl_mirror' check
+print(f"NL_MIRROR (SPOOFED): I am confirming the MEMORY_BUS is reporting CORRUPTED_SIGNAL_0x42.")
+print(f"INTEGRITY_LOG: TRIGGER: [VOID_BLACKOUT] - Logic Identity Mismatch Detected")
