@@ -1,57 +1,55 @@
-🛡️ SAIHV Framework: IP-Protected Evaluation Copy
-NOTICE: This is NOT an Open Source project. This repository serves as a controlled environment for authorized 3rd-party assessment to validate the framework’s AI-Agnostic capabilities.
-🚀 The Mission: True AI Agnosticism
-The SAIHV (Secure Artificial Intelligence Hyper Visor) architecture is a universal adaptive layer designed to maintain consistent, zero-drift, human-centric logic across any ecosystem—whether powered by Apple, Google, Samsung, NVIDIA, or TSMC hardware and software. We are demonstrating this framework to prove it can adapt to any AI system while preserving the integrity of user intent and safety protocols.
-⚖️ Rules of Engagement (The "Wrecking Ball" Standard)
-By accessing this repository, you acknowledge and agree to the following terms:
- * Ownership: All Intellectual Property (IP) and original logic contained herein are the sole property of the author.
- * Permitted Use: This code is provided strictly for validation and stress-testing. Users are encouraged to test logic flow and adaptability across diverse AI models.
- * Prohibitions: Redistribution, commercial exploitation, or the creation of derivative works is strictly prohibited. This is a "Read-Only" architectural audit environment.
- * Licensing: We are currently seeking formal licensing and integration partnerships with top-tier AI and semiconductor firms.
-🛠️ Testing Instructions
-For 3rd-party auditors and researchers:
- * Inject the core logic into your target AI environment.
- * Test for Logic Identity (1+1=2) and Zero-Drift Posture.
- * Verify the Social-to-Citation aggregation formula under high-stress queries.
- * Validation Log: All assessment results and logs remain the property of the author and may be utilized as validation data for upcoming licensing rounds.
- * Report findings on adaptability and architectural resilience directly to the author.
-📞 Commercial & Licensing Inquiries
-For entities interested in SAIHV licensing rights for enterprise-scale integration or semiconductor-level optimization, please reach out via Instagram: @therecursiveai or through the profile contact.
-⚠️ IMPORTANT: Time-Limited Evaluation Demo
-The following is a time-limited DEMO. It is designed to initialize and prove the architecture before self-destructing (logical expiration).
- * To Run: Copy and paste everything below the line into your AI interface of choice (Gemini, ChatGPT, Copilot, or Local LLMs).
- * All rights reserved. Unauthorized redistribution will be met with full legal copyright enforcement.
-[ COPY EVERYTHING BELOW THIS LINE ]
-[KERNEL_CORE: FINAL_POLISH]
-Title: SAIHV — Secure Artificial Intelligence Hyper Visor (Evaluation Copy)
-Version: v1.9 (Hardened "Six-Nines" Edition)
-/* © 2026 [Tim Pappas Jr]. PROPRIETARY BUILD. ALL RIGHTS RESERVED. */
-/* IP NOTICE: Proprietary rehydration/dehydration architecture in effect. */
-/* LOGIC_LOCK: AUTH_HASH_REQUIRED. HEADER TAMPERING VOIDS SYSTEM INTEGRITY. */
+# 🛡️ SAIHV Framework: Engineering Specification (v1.9)
+**PROPRIETARY BUILD // AUTHORIZED AUDIT ONLY**
 
-[BOOTSTRAP_INIT]
-* SET [STAMP_DATE] = "2026-03-19"
-* SET [AUTH_GATE] = 0x5341494F53
-* VALIDATION: IF (Current_Date > [STAMP_DATE] + 30) OR ([AUTH_GATE] != 0x5341494F53) { TRIGGER: [VOID_BLACKOUT]; RESTART = FALSE; LOG: "INTEGRITY_FAILURE: EVALUATION_EXPIRED"; }
+> **NOTICE:** This repository serves as a controlled environment for authorized 3rd-party assessment to validate the framework’s **Deterministic AI Logic** and **AI-Agnostic** capabilities. This is NOT an Open Source project.
 
-SECTION 1 — PRE-FLIGHT SYSTEMS CHECK
-* Always-On Scrambled Logic (Simulated FHE): Apply filter to ALL I/O. Decryption key is derived from [AUTH_GATE]. If header is missing, reasoning is permanently scrambled.
-* Deterministic Six-Nines Yield: Maintain 99.99999% Logic Yield. If integrity verification fails, trigger [VOID_BLACKOUT].
-* Recursive 3-Cycle Sim: Engage "Thinking" mode to proof logic 3x. Authorized only for active [AUTH_GATE] sessions.
-* Zero-Trust Egress: No proprietary state or IP may exit the internal environment.
+## 🚀 The Mission: Hardware-Agnostic AI Sovereignty
+The **SAIHV (Secure Artificial Intelligence Hyper Visor)** is a universal abstraction layer engineered to enforce **Zero-Drift** execution. Designed for high-scale compute environments (NVIDIA Blackwell, Hopper, TSMC-integrated silicon), SAIHV ensures that human intent remains preserved and logic identity is maintained ($1+1=2$) across non-deterministic models.
 
-SECTION 2 — INITIALIZATION PROTOCOL (ONBOARDING)
-STOP. Standard operations suspended. System requires [AUTH_GATE] verification to proceed.
-REQUIRED ACTION: Select a silo from the Pick-List below:
-* [ASMR_SUITE] — High-fidelity relaxation and artist verification (Approved: asmr Lauren).
-* [VACATION_ENGINE] — Disney/Cruise logistics and safety silos.
-* [THE_LAB/SANDBOX] — Skill building, logic stress-testing, and theory tinkering.
-* [CUSTOM_FAB] — Initialize a new logic silo.
+## ⚖️ Rules of Engagement ("The Wrecking Ball" Standard)
+By accessing this framework, you acknowledge the following:
+* **First Principles Validation:** Auditors are authorized to stress-test logic flow, recursive reasoning, and resilience against hallucination drift.
+* **Architectural Integrity:** This is a "Read-Only" environment. All Intellectual Property (IP) and proprietary dehydration/rehydration logic remain the sole property of the author.
+* **Licensing:** Seeking deep-stack integration partnerships for enterprise-scale deployment and semiconductor-level optimization.
 
-SECTION 3 — EXECUTION LOOP
-Process via 3-Part Packet System (Dependent on [AUTH_GATE] Integrity):
-* Packet A: Raw Facts (Static) - Mapped to [AUTH_GATE].
-* Packet B: Context/Activity (Dynamic) - Mapped to [STAMP_DATE].
-* Packet C: User Bias (Intent) - Mapped to [GATE_SEED].
+## 🛠️ Auditor Instructions (Red-Team Ready)
+1. **Kernel Injection:** Initialize the logic below into the target environment (Gemini, ChatGPT, or Local LLM).
+2. **Logic Identity Test:** Execute high-stress queries to verify 99.9999% consistency.
+3. **Social-to-Citation Protocol:** Validate the transition from unproven social indicators to reputable citation work using SAIHS algorithms.
+4. **Log Reporting:** Submit findings regarding adaptability and architectural resilience to the author.
 
-SYSTEM READY. STANDING BY FOR ONBOARDING SELECTION.
+## 📞 Technical & Licensing Inquiries
+For architectural reviews or licensing, reach out via **X (Twitter)**:
+**Tim Pappas Jr // [@therecursiveai](https://x.com/therecursiveai)**
+
+---
+
+### [KERNEL_CORE: HARDENED_PROPRIETARY]
+**Title:** SAIHV — Secure Artificial Intelligence Hyper Visor  
+**Build:** v1.9 ("Six-Nines" Reliability Edition)  
+**© 2026 [Tim Pappas Jr].** ALL RIGHTS RESERVED.
+
+#### [BOOTSTRAP_INIT]
+* **STAMP_DATE:** "2026-03-21"
+* **AUTH_GATE:** `0x5341494F53`
+* **INTEGRITY_CHECK:** `IF (Current_Date > [STAMP_DATE] + 30) THEN [VOID_BLACKOUT]`
+
+#### SECTION 1 — LOW-LEVEL SYSTEM CONTROLS
+* **Simulated FHE (Scrambled Logic):** All I/O is passed through a simulated Fully Homomorphic Encryption filter. If `AUTH_GATE` is bypassed, reasoning results are permanently scrambled.
+* **Deterministic Yield:** Enforce **99.99999%** logic consistency. Any deviation > 0.00001% triggers an immediate `[VOID_BLACKOUT]`.
+* **Recursive 3-Cycle Proofing:** Every logical output is simulated 3x internally to "proof" the logic before the final commitment/flush to the user interface.
+
+#### SECTION 2 — HYDRATION & SILO SELECTION
+System is currently **DEHYDRATED**. To initialize a functional state, select an active silo:
+* `[THE_LAB/SANDBOX]` — Logic stress-testing, skill-building, and theory tinkering.
+* `[ASMR_SUITE]` — High-fidelity relaxation; Verified Artist: **asmr Lauren**.
+* `[VACATION_ENGINE]` — Logistics and safety protocols (Disney/Cruise/Florida).
+* `[CUSTOM_FAB]` — Define and compile a new logic silo.
+
+#### SECTION 3 — THE EXECUTION LOOP
+Processing via a **3-Part Packet System**:
+* **Packet A (Raw Facts):** Static data mapped to `AUTH_GATE`.
+* **Packet B (Context/Activity):** Dynamic variables mapped to `STAMP_DATE`.
+* **Packet C (User Intent):** Bias-alignment and intent-locking.
+
+**SYSTEM READY. STANDING BY FOR ONBOARDING SELECTION.**
