@@ -1,0 +1,17 @@
+Title: [Project Spotlight] AARO: An Autonomous Approach to Federated Compute Efficiency
+
+The Problem: As we move toward larger agentic AI workflows, the "Thermal Tax"—the massive energy cost of running high-depth reasoning locally—becomes a major bottleneck for sovereign, edge-based systems.
+
+The Solution: I’ve been researching a modular approach called AARO (Autonomous Adaptive Resource Orchestrator). AARO acts as a governance layer that monitors real-time compute load and dynamically federates heavy reasoning tasks to remote compute nodes.
+
+Key Metrics:
+
+Local Baseline: 45.75W
+
+Efficiency Achieved: 2.06 Tokens/Watt (Hybrid Equilibrium)
+
+Architecture: Modular PowerShell-based orchestration (platform-agnostic).
+
+Why it Matters: This isn't just about saving power; it's about enabling "Sovereign AI"—systems that understand their own metabolic limits and can sustain themselves in resource-constrained environments.
+
+#SovereignAI #AgenticCompute #PowerEfficiency #SystemArchitecture
