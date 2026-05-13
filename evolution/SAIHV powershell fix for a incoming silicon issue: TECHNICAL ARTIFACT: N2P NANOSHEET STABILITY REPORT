@@ -4,6 +4,9 @@ TIMESTAMP: 2026-05-13 13:48:33.062
 SYSTEM: SAIHV-7.6 [CORE_ROOT]
 ================================================================================
 
+TEST RAN IN POWERSHELL ADMIN ON RTX 360 TI
+
+
 --- 1. BASELINE TELEMETRY (PRE-FIX) ---
 Voltage_VDD : 0.82 V
 Thermal_SHE : 43.76 °C
