@@ -5,3 +5,4 @@ Key Implementations & Resolutions
  Scope Isolation Mitigation: Resolved a critical runspace constraint where background jobs initiated via engine event actions were dropping out due to ephemeral session lifecycles.
  Global Runspace Instantiation: Migrated the background monitoring logic completely into the global session state layer upon shell initialization. This ensures persistent visibility and tracking across all workspace transitions without terminal blocking.
  Resource Optimization: Optimized the continuous telemetry loops with thread-safe file-share stream access and strict sleep intervals to guarantee zero performance degradation or console line drift in hardened environments.
+ 
