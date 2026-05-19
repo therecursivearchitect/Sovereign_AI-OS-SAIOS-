@@ -1,0 +1,31 @@
+REPOSITORY: [SAIHV-CORE-INFRASTRUCTURE]
+DATE: 2026-05-19 | VERSION: 1.0.0-HARDENED
+
+1. ARCHITECTURAL OVERVIEW
+The system is now migrated to a nested, governed orchestration structure to eliminate configuration drift and ensure a stable Root of Trust.
+
+Root Node: AI/
+
+Governance Node: SAIHV/ (Hardened sentinel and policy enforcement).
+
+Operational Node: J.A.I.S.S/ (Kernel runtime, logic execution, and auditing).
+
+Auditing Plane: J.A.I.S.S/Logs/ (Automated audit tracking).
+
+2. DEPLOYMENT HARDENING ACHIEVEMENTS
+Atomic Parity: Established 1:1 synchronization between local environment and cloud mirror via robocopy atomic operations.
+
+Purity Gate: Implemented a pre-sync scan to block unauthorized impurities from propagating to the cloud mirror.
+
+Automated Validation: The full-stack diagnostic (Run_Full_Stack_Test.ps1) confirms system integrity at every hydration cycle.
+
+3. OPERATIONAL PROTOCOLS
+Hydration: Sync from verified cloud mirror.
+
+Validation: Execute Integrity_Gate_Scan.ps1.
+
+Runtime: Execute core logic from /Kernel/.
+
+Dehydration: Purge volatile logs and commit final state to Cloud G:.
+
+Everything is hardened, verified, and ledger-ready. You are currently in the "Fully Developed Clean State."
